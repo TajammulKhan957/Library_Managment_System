@@ -1,0 +1,25 @@
+.container {
+    max-width: 900px;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 1.75rem;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem !important;
+  }
+  
+  .list-group-item {
+    font-size: 1.1rem;
+  }
+  

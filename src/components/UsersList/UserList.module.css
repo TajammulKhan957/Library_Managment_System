@@ -1,0 +1,22 @@
+/* UserList.module.css */
+.userList {
+    margin-top: 20px;
+  }
+  
+  .userList h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .userList .list-group {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .userList .list-group-item {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+  }
+  
